@@ -1,0 +1,3144 @@
+
+@media only screen and (min-width:2048px) {}
+
+@media only screen and (min-width:1600px) and (max-width:2047px) {
+	
+	
+}
+
+@media only screen and (min-width:1440px) and (max-width:1599px) {
+	
+	
+}
+
+@media only screen and (min-width:1246px) and (max-width:1439px) {
+	
+}
+
+
+@media only screen and (min-width:1171px) and (max-width:1245px) {
+.wrapper {
+    width: auto;
+    padding: 0 10px;
+ }
+	
+.header .socal ul li {
+	margin-left: 15px;
+}
+	
+.why_choose .why_choose_details ul li {
+	width: 26%;
+}	
+.why_choose h2::before {
+	right: 29%;
+}	
+	
+	
+.service .service_details ul li {
+	width: 26%;
+}
+	
+.testimonials_sec .service_details ul li { 
+	width: 29%;
+}	
+.footer ul li:nth-child(4) {
+	margin-right: 0;
+	width: 24%;
+}	
+	
+	
+/*******************************
+	about us page css start
+********************************/
+	
+/*******************************
+	contact us page css start
+********************************/	
+	
+	
+/*******************************
+	contact us page css end
+********************************/	
+	
+	
+}
+@media only screen and (min-width:960px) and (max-width:1170px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	
+/***************************
+	Header css start
+*****************************/
+	
+#header {
+	margin-left: 0 !important;
+	width: 58%;
+	margin-right: 0 !important;
+}	
+#header .navMenu ul li {
+	padding: 5px 32px !important;
+}	
+	
+.header .socal {
+	width: 20%;
+	position: relative;
+}
+#header .navMenu ul {
+	padding: 0 0px 0 10px !important;
+}	
+	
+/***************************
+	banner_home start
+*****************************/	
+h1.banner_home_heading {
+	font-size: 40px;
+}	
+.banner_buttom{
+	width: 15%;
+}	
+/***************************
+	banner home end
+*****************************/	
+
+/*************************************
+	why choose section start
+*************************************/	
+.why_choose {
+	overflow: hidden;
+	padding: 50px 0 0 0;
+}
+.why_choose h2 {
+	font-size: 40px;
+}	
+.why_choose h2::before {
+	right: 29%;
+}		
+.why_choose .why_choose_details ul li {
+	width: 30%;
+	margin-right: 10px;
+	padding: 10px;
+}
+.why_choose .why_choose_details ul li a h3 {
+	font-size: 18px;
+	letter-spacing: 0;
+}	
+	
+/*************************************
+	why choose section end
+*************************************/	
+	
+/***************************
+	service start
+*****************************/
+.service {
+	overflow: hidden;
+	padding: 50px 0;
+}	
+.service h2 {
+	font-size: 40px;
+}
+	
+.service .service_details ul li {
+	width: 30%;
+	margin-right: 10px;
+	padding: 10px;
+	margin-bottom: 10px;
+}	
+.service .service_details ul li a h3 {
+	font-size: 18px;
+	letter-spacing: 0;
+}	
+/***************************
+	service end
+*****************************/
+	
+/***************************
+	apps_sec_start
+*****************************/
+.apps h2 {
+	font-size: 40px;
+}	
+/***************************
+	apps_sec_end
+*****************************/	
+/***************************
+	testimonials_sec start
+*****************************/	
+	
+.testimonials_sec{
+	padding:50px 0;
+}
+
+.testimonials_sec h2{
+	font-size: 40px;
+	
+}	
+.testimonials_sec .service_details ul li {
+	width: 28.5%;
+}	
+/***************************
+	testimonials_sec end
+*****************************/	
+	
+/***************************
+	Footer section  css start
+*****************************/
+.footer {
+	padding: 50px 0 20px 0;
+}	
+	
+.footer ul li {
+	width: 21%;
+	margin-right: 10px;
+}	
+/***************************
+	Footer section  css end
+*****************************/
+	
+/*******************************
+	about us page css start
+********************************/
+.about {
+	overflow: hidden;
+	padding: 50px 0;
+}
+.about h2 {
+	font-size: 40px;
+}		
+	
+.about .about_details .about_details_pic {
+	width: 44%;
+	flex: 0 0 44%;
+	margin-right: 0%;
+	display: block;
+}	
+	
+.about .about_details .about_details_text {
+	width: 50%;
+	margin-left: 29px;
+}	
+	
+.about h3 {
+	font-size: 30px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}	
+	
+/*******************************
+	about us page css start
+********************************/		
+	
+/***************************
+		about_us page  start
+*****************************/
+.banner_inner img {
+    width: 1300px;
+    margin: 0 0 0 -650px;
+}
+	
+.banner_inner .captionBox .caption h2 {
+	font-size: 35px;
+}	
+
+	
+/***************************
+		about_us page end
+*****************************/		
+/*******************************
+	contact us page css start
+********************************/	
+.contact_page {
+	overflow: hidden;
+	padding: 50px 0 0 0;
+}
+.contact_page h2 {
+	font-size: 40px;
+}		
+	
+.contact_page h3 {
+	font-size: 30px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}	
+		
+/*******************************
+	contact us page css end
+********************************/	
+	
+/***************************
+	team page start
+*****************************/
+	
+.leader {
+	padding: 50px 0  30px 0;
+	overflow: hidden;
+}
+.leader h2 {
+	font-size: 30px;
+	padding-bottom: 18px;
+}	
+.executive_leadership {
+	padding: 80px 0 50px 0;
+	width: auto;
+}	
+	
+.executive_leadership ul li .manage_details_details .manage_details_details_text h2 {
+	font-size: 23px;
+}	
+	
+/***************************
+	team page End
+*****************************/	
+	
+/***************************
+	Blog page Start
+*****************************/	
+.blog_sec_page .wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}	
+.blog_sec_page .blog_sec_left .blog_ena .blog_pic {
+    width: auto;
+    height: auto;
+}	
+.blog_sec_page .blog_sec_left {
+	width: auto;
+	flex: 0 0 100%;
+	margin-right: 0;
+}
+	
+.blog_sec_page .blog_sec_right {
+	width: 100%;
+	flex: 0 0 100%;
+}	
+/***************************
+	Blog page End
+*****************************/		
+	
+/***************************
+		audit_assurance page start
+*****************************/
+.audit_service .audit_service_pic {
+	width: 449px;
+}
+.audit_service_bottom ul li {
+	flex-direction: column;
+}	
+.audit_service_bottom ul li .audit_service_bottom_pic {
+	height: auto;
+	width: 100%;
+}	
+.audit_service_bottom ul li .wrapper {
+	width: auto;
+	padding: 80px 20px;
+}	
+/***************************
+		audit_assurance page end
+*****************************/		
+	
+}
+
+@media only screen and (min-width:769px) and (max-width:959px) {
+.wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	
+/***************************
+	Header css start
+*****************************/
+	
+#header {
+	padding: 0 !important;
+	float: none !important;
+	position: absolute;
+	right: 10px;
+	top: 19px;
+	margin-right: 0 !important;
+	width: 110px;
+	border: 1px solid #fff;
+	/* overflow: hidden; */
+}	
+.mean-container::before {
+		content: "Menu";
+		color: #fff;
+		font-size: 20px;
+		position: absolute;
+		right: 45px;
+		top: 5px;
+		text-transform: uppercase;
+	}	
+.mean-container .mean-bar {
+	width: auto !important;
+}	
+	
+#header .navMenu ul li {
+	padding: 5px 32px !important;
+}	
+	
+.header .socal {
+	width: 44%;
+	position: relative;
+}
+#header .navMenu ul {
+	padding: 0 0px 0 10px !important;
+}	
+.header .socal {
+	width: 37%;
+	position: relative;
+}	
+/***************************
+	banner_home start
+*****************************/	
+h1.banner_home_heading {
+	font-size: 30px;
+	line-height: 45px;
+}
+.banner_buttom{
+	width: 15%;
+}
+.camera_wrap img {
+    width: 1400px !important;
+    position: relative;
+    left: 50%;
+    height: auto !important;
+    margin: 0 0 0 -700px;
+	}
+#camera_wrap_2 {
+    height: 376px !important;
+	}
+	
+.banner_home .captionBox {
+	width: 100%;
+	top: -282px;
+}	
+.camera_pag {
+	bottom: 168px;
+	left: 0;
+}	
+/***************************
+	banner home end
+*****************************/	
+
+/*************************************
+	why choose section start
+*************************************/	
+.why_choose {
+	overflow: hidden;
+	padding: 50px 0 0 0;
+}
+.why_choose h2 {
+	font-size: 30px;
+}	
+.why_choose h2::before {
+	right: 29%;
+}	
+	
+.why_choose .why_choose_details ul {
+	margin-top: 30px;
+}	
+	
+.why_choose .why_choose_details ul li {
+	width: 29%;
+	margin-right: 10px;
+	padding: 10px;
+}
+.why_choose .why_choose_details ul li a h3 {
+	font-size: 18px;
+	letter-spacing: 0;
+}	
+	
+/*************************************
+	why choose section end
+*************************************/	
+	
+/***************************
+	service start
+*****************************/
+.service {
+	overflow: hidden;
+	padding: 50px  0;
+}	
+.service h2 {
+	font-size: 30px;
+}
+.service .service_details ul {
+	margin-top: 30px;
+}	
+.service .service_details ul li {
+	width: 29%;
+	margin-right: 10px;
+	padding: 10px;
+	margin-bottom: 10px;
+}	
+.service .service_details ul li a h3 {
+	font-size: 18px;
+	letter-spacing: 0;
+}	
+/***************************
+	service end
+*****************************/
+	
+/***************************
+	apps_sec_start
+*****************************/
+.apps h2 {
+	font-size: 30px;
+}	
+/***************************
+	apps_sec_end
+*****************************/	
+/***************************
+	testimonials_sec start
+*****************************/	
+	
+.testimonials_sec{
+	padding:40px 0;
+}
+
+.testimonials_sec h2{
+	font-size: 30px;
+	
+}	
+	
+.testimonials_sec .service_details ul {
+	margin-top: 40px;
+	flex-direction: column;
+}
+
+	
+.testimonials_sec .service_details ul li {
+	width: auto;
+	margin-right: 0;
+	margin-bottom: 20px;
+}	
+/***************************
+	testimonials_sec end
+*****************************/	
+	
+/***************************
+	Footer section  css start
+*****************************/
+.footer {
+	padding: 50px 0 20px 0;
+}	
+	
+.footer ul li {
+	width: auto;
+	margin-right: 10px;
+	display: block;
+   margin-bottom: 40px;
+}
+	
+.footer ul li:first-child ul {
+	margin-top: 30px;
+	margin-left: 0;
+}
+	
+.footer ul li:nth-child(3) ul li:first-child {
+	margin-right: 0;
+	margin-bottom: 18px;
+}
+	
+.footer ul li:nth-child(4) {
+	margin-right: 0;
+	width: auto;
+	margin-bottom: 0;
+}
+/***************************
+	Footer section  css end
+*****************************/	
+	
+/*******************************
+	about us page css start
+********************************/
+.about {
+	overflow: hidden;
+	padding: 50px 0;
+}
+.about h2 {
+	font-size: 30px;
+}		
+	
+.about .about_details .about_details_text {
+	width: 50%;
+	margin-left: 29px;
+}	
+	
+.about h3 {
+	font-size: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	line-height: 30px;
+}	
+.about .about_details {
+	display: flex;
+	flex-direction: column;
+}	
+.about .about_details .about_details_pic {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0%;
+	display: block;
+}	
+	
+.about .about_details .about_details_text {
+	width: auto;
+	margin-left: 29px;
+	margin-top: 30px;
+}	
+.about .about_details .about_details_text h2 {
+	font-size: 30px;
+}	
+	
+/*******************************
+	about us page css start
+********************************/		
+/***************************
+		about_us page  start
+*****************************/
+.banner_inner img {
+    width: 1300px;
+    margin: 0 0 0 -650px;
+}
+	
+.banner_inner .captionBox .caption h2 {
+	font-size: 35px;
+}	
+/***************************
+		about_us page end
+*****************************/		
+
+/*******************************
+	contact us page css start
+********************************/	
+.contact_page {
+	overflow: hidden;
+	padding: 50px 0 0 0;
+}
+.contact_page h2 {
+	font-size: 30px;
+}		
+	
+.contact_page h3 {
+	font-size: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	line-height: 30px;
+}	
+.contact_page .contact_page_details {
+	flex-direction: column;
+	align-items: flex-start;
+}
+	
+.contact_page .contact_page_details .contact_page_details_map {
+	width: 100%;
+	margin-top: 20px;
+} 	
+	
+.contact_page .contact_page_details .contact_page_details_text h3 {
+	font-size: 24px;
+	line-height: 15px;
+}	
+	
+/*******************************
+	contact us page css end
+********************************/	
+/***************************
+	team page start
+*****************************/
+	
+.leader {
+	padding: 50px 0  30px 0;
+	overflow: hidden;
+}
+.leader h2 {
+	font-size: 30px;
+	padding-bottom: 18px;
+}	
+.executive_leadership {
+	padding: 80px 0 50px 0;
+	width: auto;
+}	
+	
+.executive_leadership ul li .manage_details_details .manage_details_details_text h2 {
+	font-size: 23px;
+}	
+	
+.executive_leadership ul li {
+	width: 42%;
+	flex: 0 0 42%;
+}	
+	
+.executive_leadership ul li:nth-child(3n) {
+	margin-right: 32px;
+}	
+/***************************
+	team page End
+*****************************/
+	
+/***************************
+	Blog page Start
+*****************************/	
+.blog_sec_page .wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}	
+.blog_sec_page .blog_sec_left .blog_ena .blog_pic {
+    width: auto;
+    height: auto;
+}	
+.blog_sec_page .blog_sec_left {
+	width: auto;
+	flex: 0 0 100%;
+	margin-right: 0;
+}
+	
+.blog_sec_page .blog_sec_right {
+	width: 100%;
+	flex: 0 0 100%;
+}	
+h3.blog_heading {
+	font-size: 30px;
+}	
+	
+.blog_sec_page .blog_sec_left .painx {
+	margin: -20px 0 30px 0;
+}	
+	
+/***************************
+	Blog page End
+*****************************/		
+/***************************
+		audit_assurance page start
+*****************************/
+.audit_service {
+	padding: 50px 0;
+}
+.audit_service .wrapper {
+	flex-direction: column;
+}		
+	
+.audit_service .about_sec_page_text {
+	width: auto;
+	overflow: hidden;
+	margin-bottom: 30px;
+}	
+.audit_service .audit_service_pic {
+	width: 100%;
+	height: auto;
+}	
+.audit_service_bottom ul li {
+	flex-direction: column;
+}	
+.audit_service_bottom ul li .audit_service_bottom_pic {
+	height: auto;
+	width: 100%;
+}	
+.audit_service_bottom ul li .wrapper {
+	width: auto;
+	padding: 80px 20px;
+}	
+.audits_reviews ul {
+	align-items: flex-start;
+	flex-direction: column;
+	padding-top: 20px;	
+}	
+	
+.audits_reviews ul li {
+	width: auto;
+}	
+	
+h2.heading_center.left {
+	font-size: 30px;
+}	
+.audits_reviews {
+	padding: 50px 0;
+	overflow: hidden;
+}
+	
+h2.heading_center_co {
+	font-size: 30px;
+}	
+/***************************
+		audit_assurance page end
+*****************************/	
+	
+/***************************
+		corporate_secretanrial page start
+*****************************/	
+.corporate_help ul li {
+	width: 45%;
+}
+		
+/***************************
+		corporate_secretanrial page end
+*****************************/	
+.audits_reviews.clound ul li {
+    width: auto;
+}			
+	
+}
+
+@media only screen and (min-width:641px) and (max-width:768px) {
+
+
+.wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	
+/***************************
+	Header css start
+*****************************/
+	
+#header {
+	padding: 0 !important;
+	float: none !important;
+	position: absolute;
+	right: 10px;
+	top: 19px;
+	margin-right: 0 !important;
+	width: 110px;
+	border: 1px solid #fff;
+	/* overflow: hidden; */
+}	
+.mean-container::before {
+		content: "Menu";
+		color: #fff;
+		font-size: 20px;
+		position: absolute;
+		right: 45px;
+		top: 5px;
+		text-transform: uppercase;
+	}	
+.mean-container .mean-bar {
+	width: auto !important;
+}	
+	
+#header .navMenu ul li {
+	padding: 5px 32px !important;
+}	
+	
+.header .socal {
+	width: 44%;
+	position: relative;
+}
+#header .navMenu ul {
+	padding: 0 0px 0 10px !important;
+}	
+.header .socal {
+	width: 37%;
+	position: relative;
+}	
+/***************************
+	banner_home start
+*****************************/	
+h1.banner_home_heading {
+	font-size: 30px;
+	line-height: 45px;
+}	
+.banner_buttom {
+	width: 20%;
+	margin: 19px auto;
+}
+	
+.camera_wrap img {
+    width: 1400px !important;
+    position: relative;
+    left: 50%;
+    height: auto !important;
+    margin: 0 0 0 -700px;
+	}
+#camera_wrap_2 {
+    height: 376px !important;
+	}
+	
+.banner_home .captionBox {
+	width: 100%;
+	top: -252px;
+}	
+.camera_pag {
+	bottom: 168px;
+	left: 0;
+}	
+	
+/***************************
+	banner home end
+*****************************/	
+
+/*************************************
+	why choose section start
+*************************************/	
+.why_choose {
+	overflow: hidden;
+	padding: 50px 0 0 0;
+}
+.why_choose h2 {
+	font-size: 30px;
+}	
+.why_choose h2::before {
+	right: 25%;
+	top: -11px;
+}	
+	
+.why_choose .why_choose_details ul {
+	margin-top: 30px;
+}	
+	
+.why_choose .why_choose_details ul li {
+	width: 29%;
+	margin-right: 10px;
+	padding: 10px;
+}
+.why_choose .why_choose_details ul li a h3 {
+	font-size: 18px;
+	letter-spacing: 0;
+}	
+	
+/*************************************
+	why choose section end
+*************************************/	
+	
+/***************************
+	service start
+*****************************/
+	
+.service {
+	overflow: hidden;
+	padding: 50px  0;
+}		
+.service h2 {
+	font-size: 30px;
+}
+.service .service_details ul {
+	margin-top: 30px;
+}	
+.service .service_details ul li {
+	width: 29%;
+	margin-right: 10px;
+	padding: 10px;
+	margin-bottom: 10px;
+}	
+.service .service_details ul li a h3 {
+	font-size: 18px;
+	letter-spacing: 0;
+}	
+/***************************
+	service end
+*****************************/
+	
+/***************************
+	apps_sec_start
+*****************************/
+.apps h2 {
+	font-size: 30px;
+}	
+/***************************
+	apps_sec_end
+*****************************/	
+/***************************
+	testimonials_sec start
+*****************************/	
+	
+.testimonials_sec{
+	padding:50px 0;
+}
+
+.testimonials_sec h2{
+	font-size: 30px;
+	
+}	
+	
+.testimonials_sec .service_details ul {
+	margin-top: 40px;
+	flex-direction: column;
+}
+
+	
+.testimonials_sec .service_details ul li {
+	width: auto;
+	margin-right: 0;
+	margin-bottom: 20px;
+}	
+/***************************
+	testimonials_sec end
+*****************************/	
+	
+/***************************
+	Footer section  css start
+*****************************/
+.footer {
+	padding: 50px 0 20px 0;
+}	
+	
+.footer ul li {
+	width: auto;
+	margin-right: 10px;
+	display: block;
+   margin-bottom: 40px;
+}
+	
+.footer ul li:first-child ul {
+	margin-top: 30px;
+	margin-left: 0;
+}
+	
+.footer ul li:nth-child(3) ul li:first-child {
+	margin-right: 0;
+	margin-bottom: 18px;
+}
+	
+.footer ul li:nth-child(4) {
+	margin-right: 0;
+	width: auto;
+	margin-bottom: 0;
+}
+/***************************
+	Footer section  css end
+*****************************/	
+
+/*******************************
+	about us page css start
+********************************/
+.about {
+	overflow: hidden;
+	padding: 50px 0;
+}
+.about h2 {
+	font-size: 30px;
+}		
+	
+.about h3 {
+	font-size: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	line-height: 30px;
+}	
+.about .about_details {
+	display: flex;
+	flex-direction: column;
+	margin-top: 10px;
+}	
+.about .about_details .about_details_pic {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0%;
+	display: block;
+}	
+	
+.about .about_details .about_details_text {
+	width: auto;
+	margin-left: 0;
+	margin-top: 30px;
+}	
+.about .about_details .about_details_text h2 {
+	font-size: 30px;
+}	
+	
+/*******************************
+	about us page css start
+********************************/		
+			
+/***************************
+		about_us page  start
+*****************************/
+.banner_inner img {
+    width: 1300px;
+    margin: 0 0 0 -650px;
+}
+	
+.banner_inner .captionBox .caption h2 {
+	font-size: 35px;
+}	
+/***************************
+		about_us page end
+*****************************/	
+	
+	
+/*******************************
+	contact us page css start
+********************************/	
+.contact_page {
+	overflow: hidden;
+	padding: 50px 0 0 0;
+}
+.contact_page h2 {
+	font-size: 30px;
+	padding-bottom: 18px;
+}		
+	
+.contact_page h3 {
+	font-size: 20px;
+	padding-bottom: 20px;
+	padding-top: 11px;
+	line-height: 30px;
+	
+}		
+.contact_page .contact_page_details {
+	flex-direction: column;
+	align-items: flex-start;
+}
+	
+.contact_page .contact_page_details .contact_page_details_map {
+	width: 100%;
+	margin-top: 20px;
+} 	
+	
+.contact_page .contact_page_details .contact_page_details_text h3 {
+	font-size: 24px;
+	line-height: 15px;
+}	
+
+/*******************************
+	contact us page css end
+********************************/	
+/***************************
+	team page start
+*****************************/
+	
+.leader {
+	padding: 60px 0  30px 0;
+	overflow: hidden;
+}
+.leader h2 {
+	font-size: 30px;
+	padding-bottom: 18px;
+}	
+.manage_details {
+	width: auto;
+	padding: 10px 10px 60px 10px;
+	/* border-bottom: 1px solid; */
+}	
+	
+.manage_details ul li {
+	width: 48%;
+	flex: 0 0 48%;
+}		
+	
+.executive_leadership {
+	padding: 80px 0 50px 0;
+	width: auto;
+}	
+	
+.executive_leadership ul li .manage_details_details .manage_details_details_text h2 {
+	font-size: 23px;
+}	
+	
+.executive_leadership ul li {
+	width: 44%;
+	flex: 0 0 44%;
+}	
+	
+.executive_leadership ul li:nth-child(3n) {
+	margin-right: 32px;
+}	
+	
+
+/***************************
+	team page start
+*****************************/	
+	
+/***************************
+	Blog page Start
+*****************************/	
+.blog_sec_page .wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}	
+.blog_sec_page .blog_sec_left .blog_ena .blog_pic {
+    width: auto;
+    height: auto;
+}	
+.blog_sec_page .blog_sec_left {
+	width: auto;
+	flex: 0 0 100%;
+	margin-right: 0;
+}
+	
+.blog_sec_page .blog_sec_right {
+	width: 100%;
+	flex: 0 0 100%;
+}	
+h3.blog_heading {
+	font-size: 25px;
+}	
+	
+.blog_sec_page .blog_sec_left .painx {
+	margin: 0;
+	overflow: hidden;
+	display: block;
+	padding: 20px 0 40px 0;
+}	
+
+.blog_sec_page .blog_sec_left .blog_ena .blog_txt .blog_cmd ul li {
+	padding-right: 28px;
+}	
+	
+a.banner_buttom.left {
+	width: 18%;
+}
+	
+	
+/***************************
+	Blog page End
+*****************************/		
+	
+/***************************
+		audit_assurance page start
+*****************************/
+.audit_service {
+	padding: 50px 0;
+}	
+.audit_service .wrapper {
+	flex-direction: column;
+}		
+	
+.audit_service .about_sec_page_text {
+	width: auto;
+	overflow: hidden;
+	margin-bottom: 30px;
+}	
+.audit_service .audit_service_pic {
+	width: 100%;
+}	
+.audit_service_bottom ul li {
+	flex-direction: column;
+}	
+.audit_service_bottom ul li .audit_service_bottom_pic {
+	height: auto;
+	width: 100%;
+}	
+.audit_service_bottom ul li .wrapper {
+	width: auto;
+	padding: 40px 20px;
+}	
+.audits_reviews ul {
+	align-items: flex-start;
+	flex-direction: column;
+	padding-top: 20px;
+	
+}	
+	
+.audits_reviews ul li {
+	width: auto;
+}	
+	
+	
+h2.heading_center.left {
+	font-size: 30px;
+}	
+.audits_reviews {
+	padding:0 0 50px 0;
+	overflow: hidden;
+}
+	
+h2.heading_center_co {
+	font-size: 30px;
+}	
+	
+/***************************
+		audit_assurance page end
+*****************************/		
+/***************************
+		corporate_secretanrial page start
+*****************************/	
+.corporate_help ul li {
+	width: 45%;
+}
+		
+/***************************
+		corporate_secretanrial page end
+*****************************/		
+	
+/***************************
+	Business advisor page start
+*****************************/	
+.how_it_work ul li::before {
+	display: none;
+}
+	
+.how_it_work ul {
+	margin-top: 0;
+	flex-direction: column;
+
+}	
+.how_it_work ul li {
+	width: auto;
+	margin-top: 100px;
+}
+.how_it_work ul li .work_text {
+	padding: 50px 22px;
+	height: auto;
+}	
+	
+	
+.audits_reviews.clound ul li {
+    width: auto;
+}		
+/***************************
+	Business advisor page end
+*****************************/			
+	
+}
+
+@media only screen and (min-width:481px) and (max-width:640px) {
+	
+.wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+		
+	
+/***************************
+	Header css start
+*****************************/
+	
+#header {
+	padding: 0 !important;
+	float: none !important;
+	position: absolute;
+	right: 10px;
+	top: 1px;
+	margin-right: 0 !important;
+	width: 110px;
+	border: 1px solid #fff;
+	/* overflow: hidden; */
+}	
+.mean-container::before {
+		content: "Menu";
+		color: #fff;
+		font-size: 20px;
+		position: absolute;
+		right: 45px;
+		top: 6px;
+		text-transform: uppercase;
+	}	
+.mean-container .mean-bar {
+	width: auto !important;
+}	
+	
+#header .navMenu ul li {
+	padding: 5px 32px !important;
+}	
+
+#header .navMenu ul {
+	padding: 0 0px 0 10px !important;
+}	
+.header .socal {
+	width: 37%;
+	position: relative;
+}	
+	
+.header .socal {
+	display: none;
+}	
+.header .logo {
+	width: 92px;
+	height: 43px;
+}	
+/***************************
+	banner_home start
+*****************************/	
+h1.banner_home_heading {
+	font-size: 25px;
+	line-height: 36px;
+}	
+.banner_buttom {
+	width: 20%;
+	margin: 19px auto;
+	padding: 10px 30px;
+	font-size: 16px;
+}
+	
+.camera_wrap img {
+    width: 1000px !important;
+	position: relative;
+	left: 50%;
+	height: auto !important;
+	margin: 0 0 0 -500px !important;
+	}
+#camera_wrap_2 {
+    height: 268px !important;
+	}
+	
+.banner_home .captionBox {
+	width: 100%;
+	top: -182px;
+}	
+.camera_pag {
+	bottom: 88px;
+	left: -39px;
+}	
+	
+/***************************
+	banner home end
+*****************************/	
+
+/*************************************
+	why choose section start
+*************************************/	
+.why_choose {
+	overflow: hidden;
+	padding: 40px 0 0 0;
+}
+.why_choose h2 {
+	font-size: 25px;
+	padding-bottom: 20px;
+}	
+.why_choose h2::before {
+	right: 20%;
+	top: -11px;
+}	
+	
+.why_choose .why_choose_details ul {
+	margin-top: 25px;
+	flex-direction: column;
+}	
+	
+.why_choose .why_choose_details ul li {
+	width: auto;
+	margin-right: 0;
+	padding: 10px;
+}
+.why_choose .why_choose_details ul li a h3 {
+	font-size: 18px;
+	letter-spacing: 0;
+}	
+	
+/*************************************
+	why choose section end
+*************************************/	
+	
+/***************************
+	service start
+*****************************/
+.service {
+	overflow: hidden;
+	padding: 40px 0;
+}	
+	
+.service h2 {
+	font-size: 25px;
+	padding-bottom: 20px;
+}
+.service .service_details ul {
+	margin-top: 25px;
+	flex-direction: column;
+}	
+.service .service_details ul li {
+	width: auto;
+	margin-right: 0;
+	padding: 10px;
+	margin-bottom: 10px;
+}	
+.service .service_details ul li a h3 {
+	font-size: 18px;
+	letter-spacing: 0;
+}	
+/***************************
+	service end
+*****************************/
+	
+/***************************
+	apps_sec_start
+*****************************/
+.apps h2 {
+	font-size: 25px;
+	padding-bottom: 20px;
+}	
+/***************************
+	apps_sec_end
+*****************************/	
+/***************************
+	testimonials_sec start
+*****************************/	
+	
+.testimonials_sec{
+	padding:40px 0;
+}
+
+.testimonials_sec h2{
+	font-size: 25px;
+	padding-bottom: 20px;
+}	
+	
+.testimonials_sec .service_details ul {
+	margin-top: 40px;
+	flex-direction: column;
+}
+
+	
+.testimonials_sec .service_details ul li {
+	width: auto;
+	margin-right: 0;
+	margin-bottom: 20px;
+}	
+/***************************
+	testimonials_sec end
+*****************************/	
+	
+/***************************
+	Footer section  css start
+*****************************/
+.footer {
+	padding: 50px 0 20px 0;
+}	
+	
+.footer ul li {
+	width: auto;
+	margin-right: 10px;
+	display: block;
+   margin-bottom: 40px;
+}
+	
+.footer ul li:first-child ul {
+	margin-top: 30px;
+	margin-left: 0;
+}
+	
+.footer ul li:nth-child(3) ul li:first-child {
+	margin-right: 0;
+	margin-bottom: 18px;
+}
+	
+.footer ul li:nth-child(4) {
+	margin-right: 0;
+	width: auto;
+	margin-bottom: 0;
+}
+	
+.footer_bottom h4 {
+	font-size: 12px;
+}	
+	
+/***************************
+	Footer section  css end
+*****************************/	
+	
+/*******************************
+	about us page css start
+********************************/
+.about {
+	overflow: hidden;
+	padding: 40px 0;
+}
+.about h2 {
+	font-size: 20px;
+	padding-bottom: 20px;
+}		
+	
+.about h3 {
+	font-size: 18px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	line-height: 27px;
+}	
+.about .about_details {
+	display: flex;
+	flex-direction: column;
+	margin-top: 10px;
+}	
+.about .about_details .about_details_pic {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0%;
+	display: block;
+}	
+	
+.about .about_details .about_details_text {
+	width: auto;
+	margin-left: 0;
+	margin-top: 20px;
+}	
+.about .about_details .about_details_text h2 {
+	font-size: 20px;
+}	
+	
+/*******************************
+	about us page css start
+********************************/	
+/***************************
+		about_us page  start
+*****************************/
+.banner_inner img {
+   width: 880px;
+    margin: 0px 0 0 -440px;
+}
+	
+.banner_inner .captionBox {
+	position: absolute;
+	bottom: 32%;
+}		
+	
+.banner_inner .captionBox .caption h2 {
+	font-size: 25px;
+}
+
+/***************************
+		about_us page end
+*****************************/
+	
+/*******************************
+	contact us page css start
+********************************/	
+.contact_page {
+	overflow: hidden;
+	padding: 40px 0 0 0;
+}
+.contact_page h2 {
+	font-size: 30px;
+	padding-bottom: 18px;
+}		
+	
+.contact_page h3 {
+	font-size: 20px;
+	padding-bottom: 30px;
+	padding-top: 11px;
+	line-height: 27px;
+}		
+.contact_page .contact_page_details {
+	flex-direction: column;
+	align-items: flex-start;
+	margin-bottom: 40px;
+}
+	
+.contact_page .contact_page_details .contact_page_details_map {
+	width: 100%;
+	margin-top: 20px;
+} 	
+	
+.contact_page .contact_page_details .contact_page_details_text h3 {
+	font-size: 24px;
+	line-height: 15px;
+}	
+
+/*******************************
+	contact us page css end
+********************************/		
+/***************************
+	team page start
+*****************************/
+	
+.leader {
+	padding: 60px 0  0 0;
+	overflow: hidden;
+}
+.leader h2 {
+	font-size: 30px;
+	padding-bottom: 18px;
+}		
+.manage_details {
+	width: auto;
+	padding: 10px 10px 30px 10px;
+	/* border-bottom: 1px solid; */
+}	
+.manage_details ul {
+	display: flex;
+	flex-direction: column;
+	margin-top: 20px;
+}	
+.manage_details ul li {
+	width: auto;
+	flex: 0 0 auto;
+}	
+	
+.executive_leadership {
+	padding: 30px 0 30px 0;
+	width: auto;
+}
+.executive_leadership ul {
+	display: flex;
+	flex-direction: column;
+	margin-top: 10px;
+}	
+	
+.executive_leadership ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0;
+	margin-bottom: 0px;
+}	
+	
+.executive_leadership ul li .manage_details_details .manage_details_details_text h2 {
+	font-size: 23px;
+}	
+		
+	
+.executive_leadership ul li:nth-child(3n) {
+	margin-right: 0;
+}	
+	
+.leadership_details_details .leadership_details_details_pic {
+	height: auto;
+	width: auto;
+}
+/***************************
+	team page End
+*****************************/	
+	
+/***************************
+	Blog page Start
+*****************************/	
+.blog_sec_page .wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}	
+.blog_sec_page .blog_sec_left .blog_ena .blog_pic {
+    width: auto;
+    height: auto;
+}	
+.blog_sec_page .blog_sec_left {
+	width: auto;
+	flex: 0 0 100%;
+	margin-right: 0;
+}
+	
+.blog_sec_page .blog_sec_right {
+	width: 100%;
+	flex: 0 0 100%;
+}	
+h3.blog_heading {
+	font-size: 25px;
+}	
+	
+
+.blog_sec_page .blog_sec_left .blog_ena .blog_txt .blog_cmd ul li {
+	padding-right: 28px;
+}
+	
+.blog_sec_page .blog_sec_left .painx {
+	margin: 0;
+	overflow: hidden;
+	display: block;
+	padding: 20px 0 40px 0;
+}	
+
+.blog_sec_page .blog_sec_left .painx ul li {
+	display: inline-block;
+	font-size: 16px;
+	color: #1278c6;
+	margin: 0;
+	padding: 14px 0;
+}	
+		
+a.banner_buttom.left {
+	margin-top: 9px;
+	width: 25%;
+}	
+	
+.blog_sec_page .blog_sec_left .painx {
+	margin: 0;
+	overflow: hidden;
+	display: block;
+	padding: 0px 0 20px 0;
+}
+.blog_sec_page .blog_sec_left .painx ul li {
+	display: inline-block;
+	font-size: 16px;
+	color: #1278c6;
+	margin: 0;
+	padding: 14px 0;
+}	
+		
+a.banner_buttom.left {
+	margin-top: 9px;
+	width: 25%;
+}	
+		
+	
+/***************************
+	Blog page End
+*****************************/	
+	
+/***************************
+		audit_assurance page start
+*****************************/
+	
+.audit_service {
+	padding: 40px 0;
+}	
+	
+.audit_service .wrapper {
+	flex-direction: column;
+}		
+	
+.audit_service .about_sec_page_text {
+	width: auto;
+	overflow: hidden;
+	margin-bottom: 30px;
+}	
+.audit_service .audit_service_pic {
+	width: 100%;
+}	
+.audit_service_bottom ul li {
+	flex-direction: column;
+}	
+.audit_service_bottom ul li .audit_service_bottom_pic {
+	height: auto;
+	width: 100%;
+}
+	
+.audit_service_bottom ul li .wrapper {
+	width: auto;
+	padding: 60px 20px;
+}	
+
+.audits_reviews {
+	padding: 60px 0;
+	overflow: hidden;
+}		
+.audits_reviews p {
+	padding-top: 10px;
+}	
+.audits_reviews ul {
+	align-items: flex-start;
+	flex-direction: column;
+	padding-top: 10px;
+	
+}	
+	
+.audits_reviews ul li {
+	width: auto;
+}	
+	
+h2.heading_center.left {
+	font-size: 20px;
+}	
+.audits_reviews {
+	padding:0 0 40px 0;
+	overflow: hidden;
+}
+	
+h2.heading_center_co {
+	font-size: 20px;
+}	
+		
+	
+/***************************
+		audit_assurance page end
+*****************************/		
+		
+/***************************
+		corporate_secretanrial page start
+*****************************/	
+.corporate_help {
+	padding: 60px 0;
+}
+	
+.corporate_help ul {
+	flex-direction: column;
+	padding-top: 10px;
+}	
+	
+.corporate_help ul li{
+	width: 100%;
+}	
+
+h4.header_sub {
+	margin-top: 30px;
+}	
+	
+/***************************
+		corporate_secretanrial page end
+*****************************/
+	
+/***************************
+	Business advisor page start
+*****************************/	
+.how_it_work ul li::before {
+	display: none;
+}
+	
+.how_it_work ul {
+	margin-top: 0;
+	flex-direction: column;
+
+}	
+.how_it_work ul li {
+	width: auto;
+	margin-top: 100px;
+}
+.how_it_work ul li .work_text {
+	padding: 50px 22px;
+	height: auto;
+}	
+	
+.audits_reviews.clound ul li {
+    width: auto;
+}		
+/***************************
+	Business advisor page end
+*****************************/		
+		
+	
+}
+
+@media only screen and (min-width:321px) and (max-width:480px) {
+	
+ .wrapper {
+   width: auto;
+   padding: 0 10px;
+  }
+	
+/***************************
+	Header css start
+*****************************/
+	
+#header {
+	padding: 0 !important;
+	float: none !important;
+	position: absolute;
+	right: 10px;
+	top: 1px;
+	margin-right: 0 !important;
+	width: 110px;
+	border: 1px solid #fff;
+	/* overflow: hidden; */
+}	
+.mean-container::before {
+		content: "Menu";
+		color: #fff;
+		font-size: 20px;
+		position: absolute;
+		right: 45px;
+		top: 5px;
+		text-transform: uppercase;
+	}	
+.mean-container .mean-bar {
+	width: auto !important;
+}	
+	
+#header .navMenu ul li {
+	padding: 5px 32px !important;
+}	
+
+#header .navMenu ul {
+	padding: 0 0px 0 10px !important;
+}	
+.header .socal {
+	width: 37%;
+	position: relative;
+}	
+	
+.header .socal {
+	display: none;
+}	
+.header .logo {
+	width: 92px;
+	height: 43px;
+}	
+/***************************
+	banner_home start
+*****************************/	
+h1.banner_home_heading {
+	font-size: 16px;
+	line-height: 24px;
+}	
+.banner_buttom {
+	width: 39%;
+	margin: 9px auto;
+	padding: 7px 7px;
+	font-size: 15px;
+}	
+.camera_wrap img {
+    width: 700px !important;
+	position: relative;
+	left: 50%;
+	height: auto !important;
+	margin: 0 0 0 -350px !important;
+	}
+#camera_wrap_2 {
+    height: 189px !important;
+	}
+	
+.banner_home .captionBox {
+	width: 100%;
+	top: -138px;
+}
+.camera_pag {
+	bottom: 58px;
+	left: -39px;
+}	
+	
+/***************************
+	banner home end
+*****************************/	
+
+/*************************************
+	why choose section start
+*************************************/	
+.why_choose {
+	overflow: hidden;
+	padding: 30px 0 0 0;
+}
+.why_choose h2 {
+	font-size: 20px;
+	padding-bottom: 14px;
+}	
+.why_choose h2::before {
+	right: 5%;
+	top: -11px;
+}	
+.why_choose h2::after {
+	height: 3px;
+	width: 90px;
+}	
+.why_choose .why_choose_details ul {
+	margin-top: 25px;
+	flex-direction: column;
+}	
+	
+.why_choose .why_choose_details ul li {
+	width: auto;
+	margin-right: 0;
+	padding: 10px;
+}
+.why_choose .why_choose_details ul li a h3 {
+	font-size: 18px;
+	letter-spacing: 0;
+}	
+	
+/*************************************
+	why choose section end
+*************************************/	
+	
+/***************************
+	service start
+*****************************/
+.service {
+	overflow: hidden;
+	padding: 30px 0 20px 0;
+}	
+	
+.service h2 {
+	font-size: 20px;
+	padding-bottom: 14px;
+}
+.service h2::after {
+	height: 3px;
+	width: 90px;
+}		
+.service .service_details ul {
+	margin-top: 25px;
+	flex-direction: column;
+}	
+.service .service_details ul li {
+	width: auto;
+	margin-right: 0;
+	padding: 10px;
+	margin-bottom: 10px;
+}	
+.service .service_details ul li a h3 {
+	font-size: 18px;
+	letter-spacing: 0;
+}	
+/***************************
+	service end
+*****************************/
+	
+/***************************
+	apps_sec_start
+*****************************/
+.apps h2 {
+	font-size: 20px;
+	padding-bottom: 14px;
+}
+.apps h2::after {
+	height: 3px;
+	width: 90px;
+}		
+.apps #app_details {
+	margin-top: 25px;
+}	
+/***************************
+	apps_sec_end
+*****************************/	
+/***************************
+	testimonials_sec start
+*****************************/	
+	
+.testimonials_sec{
+	padding:30px 0 10px 0;
+}
+
+.testimonials_sec h2{
+	font-size: 20px;
+	padding-bottom: 14px;
+}	
+.testimonials_sec h2::after {
+	height: 3px;
+	width: 90px;
+}	
+.testimonials_sec .service_details ul {
+	margin-top: 20px;
+	flex-direction: column;
+}
+
+	
+.testimonials_sec .service_details ul li {
+	width: auto;
+	margin-right: 0;
+	margin-bottom: 20px;
+}	
+	
+.testimonials_sec .service_details ul li .testimonials_heading .testimonials_text h3 {
+	font-size: 18px;
+	color: #3f5270;
+}	
+/***************************
+	testimonials_sec end
+*****************************/	
+	
+/***************************
+	Footer section  css start
+*****************************/
+.footer {
+	padding: 30px 0 20px 0;
+}	
+.footer ul li .footer_logo {
+	margin: 0;
+	width: 175px;
+	height: 84px;
+}	
+.footer ul li {
+	width: auto;
+	margin-right: 10px;
+	display: block;
+   margin-bottom: 40px;
+}
+	
+.footer ul li:first-child ul {
+	margin-top: 30px;
+	margin-left: 0;
+}
+	
+.footer ul li:nth-child(3) ul li:first-child {
+	margin-right: 0;
+	margin-bottom: 18px;
+}
+	
+.footer ul li:nth-child(4) {
+	margin-right: 0;
+	width: auto;
+	margin-bottom: 0;
+}
+	
+.footer_bottom h4 {
+	font-size: 12px;
+}	
+	
+/***************************
+	Footer section  css end
+*****************************/	
+	
+/*******************************
+	about us page css start
+********************************/
+.about {
+	overflow: hidden;
+	padding:30px 0;
+}
+.about h2 {
+	font-size: 20px;
+	padding-bottom: 20px;
+}		
+	
+.about h3 {
+	font-size: 15px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	line-height: 23px;
+}	
+.about .about_details {
+	display: flex;
+	flex-direction: column;
+	margin-top: 10px;
+}	
+.about .about_details .about_details_pic {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0%;
+	display: block;
+}	
+	
+.about .about_details .about_details_text {
+	width: auto;
+	margin-left: 0;
+	margin-top: 20px;
+}	
+.about .about_details .about_details_text h2 {
+	font-size: 20px;
+}	
+	
+.about .about_details .about_details_text p {
+	padding-top: 7px;
+	font-size: 14px;
+}	
+	
+/*******************************
+	about us page css start
+********************************/		
+/***************************
+		about_us page  start
+*****************************/
+.banner_inner img {
+   width: 880px;
+    margin: 0px 0 0 -440px;
+}
+	
+.banner_inner .captionBox {
+	position: absolute;
+	bottom: 32%;
+}		
+	
+.banner_inner .captionBox .caption h2 {
+	font-size: 20px;
+}	
+	
+/***************************
+		about_us page end
+*****************************/		
+/*******************************
+	contact us page css start
+********************************/	
+.contact_page {
+	overflow: hidden;
+	padding: 30px 0 0 0;
+}
+.contact_page h2 {
+	font-size: 20px;
+	padding-bottom: 18px;
+}		
+	
+.contact_page h3 {
+	font-size: 15px;
+	padding-bottom: 20px;
+	padding-top: 11px;
+	line-height: 23px;
+}		
+.contact_page .contact_page_details {
+	flex-direction: column;
+	align-items: flex-start;
+	margin-bottom: 30px;
+}
+	
+.contact_page .contact_page_details .contact_page_details_map {
+	width: 100%;
+	margin-top: 20px;
+} 	
+	
+.contact_page .contact_page_details .contact_page_details_text h3 {
+	font-size: 19px;
+	line-height: 19px;
+}	
+
+/*******************************
+	contact us page css end
+********************************/	
+/***************************
+	team page start
+*****************************/
+	
+.leader {
+	padding: 40px 0  0 0;
+	overflow: hidden;
+}
+.leader h2 {
+	font-size: 20px;
+	padding-bottom: 18px;
+}		
+.manage_details {
+	width: auto;
+	padding: 10px 10px 10px 10px;
+	/* border-bottom: 1px solid; */
+}	
+.manage_details ul {
+	display: flex;
+	flex-direction: column;
+	margin-top: 20px;
+}	
+.manage_details ul li {
+	width: 100%;
+	flex: 0 0 100%;
+}	
+	
+.manage_details ul li .manage_details_details .manage_details_details_text h2 {
+	font-size: 20px;
+}	
+	
+.executive_leadership {
+	padding: 20px 0 0 0;
+	width: auto;
+}
+.executive_leadership ul {
+	display: flex;
+	flex-direction: column;
+	margin-top: 10px;
+}	
+	
+.executive_leadership ul li {
+	width: 100%;
+	flex: 0 0 100%;
+	margin-right: 0;
+	margin-bottom: 0px;
+}	
+	
+.executive_leadership ul li .manage_details_details .manage_details_details_text h2 {
+	font-size: 20px;
+}	
+		
+	
+.executive_leadership ul li:nth-child(3n) {
+	margin-right: 0;
+}	
+		
+.executive_leadership ul li .manage_details_details .manage_details_details_text h2 {
+	font-size: 23px;
+}	
+		
+	
+.executive_leadership ul li:nth-child(3n) {
+	margin-right: 0;
+}	
+	
+.leadership_details_details .leadership_details_details_pic {
+	height: auto;
+	width: auto;
+}
+.leadership_details_details .leadership_details_details_text .leadership_details_details_heading h3 {
+	font-size: 20px;
+}	
+.leadership_details_details .leadership_details_details_text .leadership_details_details_heading {
+	display: flex;
+	flex-direction: column;
+}	
+.leadership_details_details .leadership_details_details_text .leadership_details_details_heading a {
+	display: none;
+}	
+	
+.executive_leadership ul li .manage_details_details .manage_details_details_text h3 {
+	font-size: 18px;
+}	
+.executive_leadership ul li .manage_details_details .manage_details_details_text {
+	padding: 20px 0;
+}	
+/***************************
+	team page End
+*****************************/	
+	
+/***************************
+	Blog page Start
+*****************************/	
+	
+.blog_sec_page {
+	padding: 40px 0;
+	overflow: hidden;
+}	
+.blog_sec_page .wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}	
+.blog_sec_page .blog_sec_left .blog_ena .blog_pic {
+    width: auto;
+    height: auto;
+}	
+.blog_sec_page .blog_sec_left {
+	width: auto;
+	flex: 0 0 100%;
+	margin-right: 0;
+}
+	
+.blog_sec_page .blog_sec_right {
+	width: 100%;
+	flex: 0 0 100%;
+}	
+h3.blog_heading {
+	font-size: 20px;
+	padding-bottom: 20px;
+}	
+	
+
+.blog_sec_page .blog_sec_left .blog_ena .blog_txt .blog_cmd ul li {
+	padding-right: 28px;
+}	
+.blog_sec_page .blog_sec_left .blog_ena {
+	padding: 20px;
+}	
+
+.blog_sec_page .blog_sec_left .painx {
+	margin: 0;
+	overflow: hidden;
+	display: block;
+	padding: 0px 0 20px 0;
+}
+.blog_sec_page .blog_sec_left .painx ul li {
+	display: inline-block;
+	font-size: 16px;
+	color: #1278c6;
+	margin: 0;
+	padding: 14px 0;
+}	
+		
+
+a.banner_buttom.left {
+	margin-top: 0;
+	width: 35%;
+	padding: 10px 23px;
+}	
+	
+.blog_sec_page .blog_sec_right .news ul li .news_pic {
+	float: none;
+	margin-right: 10px;
+}	
+	
+/***************************
+	Blog page End
+*****************************/		
+/***************************
+		audit_assurance page start
+*****************************/
+	
+.audit_service {
+	padding: 30px 0;
+}	
+	
+.audit_service .wrapper {
+	flex-direction: column;
+}		
+	
+.audit_service .about_sec_page_text {
+	width: auto;
+	overflow: hidden;
+	margin-bottom: 30px;
+}	
+.audit_service .audit_service_pic {
+	width: 100%;
+}	
+.audit_service_bottom ul li {
+	flex-direction: column;
+}	
+.audit_service_bottom ul li .audit_service_bottom_pic {
+	height: auto;
+	width: 100%;
+}
+	
+.audit_service_bottom ul li .wrapper {
+	width: auto;
+	padding: 40px 20px;
+}	
+
+.audits_reviews {
+	padding: 40px 0;
+	overflow: hidden;
+}		
+.audits_reviews p {
+	padding-top: 10px;
+}	
+.audits_reviews ul {
+	align-items: flex-start;
+	flex-direction: column;
+	padding-top: 10px;
+	
+}	
+	
+.audits_reviews ul li {
+	width: auto;
+}	
+h2.heading_center.left {
+	font-size: 20px;
+}	
+.audits_reviews {
+	padding:0 0 30px 0;
+	overflow: hidden;
+}
+	
+h2.heading_center_co {
+	font-size: 20px;
+}	
+
+.audit_service .about_sec_page_text p {
+	text-align: left;
+	padding-top: 10px;
+	font-size: 14px;
+}	
+.audit_service_bottom ul li .audit_service_bottom_text p {
+	text-align: left;
+	padding-top: 10px;
+	font-size: 14px;
+}	
+	
+/***************************
+		audit_assurance page end
+*****************************/		
+	
+/***************************
+		corporate_secretanrial page start
+*****************************/	
+.corporate_help {
+	padding: 40px 0;
+}
+	
+.corporate_help ul {
+	flex-direction: column;
+	padding-top: 0;
+}	
+	
+.corporate_help ul li{
+	width: auto;
+}	
+
+h4.header_sub {
+	margin-top: 20px;
+}	
+	
+/***************************
+		corporate_secretanrial page end
+*****************************/	
+/***************************
+	Business advisor page start
+*****************************/	
+.how_it_work ul li::before {
+	display: none;
+}
+	
+.how_it_work ul {
+	margin-top: 0;
+	flex-direction: column;
+
+}	
+.how_it_work ul li {
+	width: auto;
+	margin-top: 100px;
+}
+.how_it_work ul li .work_text {
+	padding: 50px 22px;
+	height: auto;
+}	
+	
+.audits_reviews.clound ul li {
+    width: auto;
+}	
+/***************************
+	Business advisor page end
+*****************************/		
+	
+	
+	
+}
+
+@media only screen and (max-width:320px) {
+ .wrapper {
+   width: auto;
+   padding: 0 10px;
+  }
+	
+	
+/***************************
+	Header css start
+*****************************/
+	
+#header {
+	padding: 0 !important;
+	float: none !important;
+	position: absolute;
+	right: 10px;
+	top: 1px;
+	margin-right: 0 !important;
+	width: 110px;
+	border: 1px solid #fff;
+	/* overflow: hidden; */
+}	
+.mean-container::before {
+		content: "Menu";
+		color: #fff;
+		font-size: 20px;
+		position: absolute;
+		right: 45px;
+		top: 5px;
+		text-transform: uppercase;
+	}	
+.mean-container .mean-bar {
+	width: auto !important;
+}	
+	
+#header .navMenu ul li {
+	padding: 5px 32px !important;
+}	
+
+#header .navMenu ul {
+	padding: 0 0px 0 10px !important;
+}	
+.header .socal {
+	width: 37%;
+	position: relative;
+}	
+	
+.header .socal {
+	display: none;
+}	
+.header .logo {
+	width: 92px;
+	height: 43px;
+}	
+/***************************
+	banner_home start
+*****************************/	
+h1.banner_home_heading {
+	font-size: 16px;
+	line-height: 24px;
+}	
+.banner_buttom {
+	width: 39%;
+	margin: 9px auto;
+	padding: 7px 7px;
+	font-size: 15px;
+}	
+.camera_wrap img {
+    width: 700px !important;
+	position: relative;
+	left: 50%;
+	height: auto !important;
+	margin: 0 0 0 -350px !important;
+	}
+#camera_wrap_2 {
+    height: 189px !important;
+	}
+	
+.banner_home .captionBox {
+	width: 100%;
+	top: -138px;
+}
+.camera_pag {
+	bottom: 58px;
+	left: -39px;
+}	
+	
+/***************************
+	banner home end
+*****************************/	
+
+/*************************************
+	why choose section start
+*************************************/	
+.why_choose {
+	overflow: hidden;
+	padding: 30px 0;
+}
+.why_choose h2 {
+	font-size: 20px;
+	padding-bottom: 14px;
+}	
+.why_choose h2::before {
+	right: 5%;
+	top: -11px;
+}	
+.why_choose h2::after {
+	height: 3px;
+	width: 90px;
+}	
+.why_choose .why_choose_details ul {
+	margin-top: 25px;
+	flex-direction: column;
+}	
+	
+.why_choose .why_choose_details ul li {
+	width: auto;
+	margin-right: 0;
+	padding: 10px;
+}
+.why_choose .why_choose_details ul li a h3 {
+	font-size: 18px;
+	letter-spacing: 0;
+}	
+	
+/*************************************
+	why choose section end
+*************************************/	
+	
+/***************************
+	service start
+*****************************/
+.service {
+	overflow: hidden;
+	padding: 0 0 20px 0;
+}	
+	
+.service h2 {
+	font-size: 20px;
+	padding-bottom: 14px;
+}
+.service h2::after {
+	height: 3px;
+	width: 90px;
+}		
+.service .service_details ul {
+	margin-top: 25px;
+	flex-direction: column;
+}	
+.service .service_details ul li {
+	width: auto;
+	margin-right: 0;
+	padding: 10px;
+	margin-bottom: 10px;
+}	
+.service .service_details ul li a h3 {
+	font-size: 18px;
+	letter-spacing: 0;
+}	
+/***************************
+	service end
+*****************************/
+	
+/***************************
+	apps_sec_start
+*****************************/
+.apps h2 {
+	font-size: 20px;
+	padding-bottom: 14px;
+}
+.apps h2::after {
+	height: 3px;
+	width: 90px;
+}		
+.apps #app_details {
+	margin-top: 25px;
+}	
+/***************************
+	apps_sec_end
+*****************************/	
+/***************************
+	testimonials_sec start
+*****************************/	
+	
+.testimonials_sec{
+	padding:30px 0;
+}
+
+.testimonials_sec h2{
+	font-size: 20px;
+	padding-bottom: 14px;
+}	
+.testimonials_sec h2::after {
+	height: 3px;
+	width: 90px;
+}	
+.testimonials_sec .service_details ul {
+	margin-top: 20px;
+	flex-direction: column;
+}
+
+	
+.testimonials_sec .service_details ul li {
+	width: auto;
+	margin-right: 0;
+	margin-bottom: 20px;
+}	
+	
+.testimonials_sec .service_details ul li .testimonials_heading .testimonials_text h3 {
+	font-size: 18px;
+	color: #3f5270;
+}	
+/***************************
+	testimonials_sec end
+*****************************/	
+	
+/***************************
+	Footer section  css start
+*****************************/
+.footer {
+	padding: 30px 0 20px 0;
+}	
+.footer ul li .footer_logo {
+	margin: 0;
+	width: 175px;
+	height: 84px;
+}	
+.footer ul li {
+	width: auto;
+	margin-right: 10px;
+	display: block;
+   margin-bottom: 40px;
+}
+	
+.footer ul li:first-child ul {
+	margin-top: 30px;
+	margin-left: 0;
+}
+	
+.footer ul li:nth-child(3) ul li:first-child {
+	margin-right: 0;
+	margin-bottom: 18px;
+}
+	
+.footer ul li:nth-child(4) {
+	margin-right: 0;
+	width: auto;
+	margin-bottom: 0;
+}
+	
+.footer_bottom h4 {
+	font-size: 12px;
+}	
+	
+/***************************
+	Footer section  css end
+*****************************/	
+		
+/*******************************
+	about us page css start
+********************************/
+.about {
+	overflow: hidden;
+	padding:30px 0;
+}
+.about h2 {
+	font-size: 20px;
+	padding-bottom: 20px;
+}		
+	
+.about h3 {
+	font-size: 15px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	line-height: 23px;
+}	
+.about .about_details {
+	display: flex;
+	flex-direction: column;
+	margin-top: 10px;
+}	
+.about .about_details .about_details_pic {
+	width: auto;
+	flex: 0 0 auto;
+	margin-right: 0%;
+	display: block;
+}	
+	
+.about .about_details .about_details_text {
+	width: auto;
+	margin-left: 0;
+	margin-top: 20px;
+}	
+.about .about_details .about_details_text h2 {
+	font-size: 20px;
+}	
+	
+.about .about_details .about_details_text p {
+	padding-top: 7px;
+	font-size: 14px;
+}	
+	
+/*******************************
+	about us page css start
+********************************/
+	
+/***************************
+		about_us page  start
+*****************************/
+.banner_inner img {
+   width: 880px;
+    margin: 0px 0 0 -440px;
+}
+	
+.banner_inner .captionBox {
+	position: absolute;
+	bottom: 32%;
+}		
+	
+.banner_inner .captionBox .caption h2 {
+	font-size: 20px;
+}	
+	
+/***************************
+		about_us page end
+*****************************/	
+	
+/*******************************
+	contact us page css start
+********************************/	
+.contact_page {
+	overflow: hidden;
+	padding: 30px 0 0 0;
+}
+.contact_page h2 {
+	font-size: 20px;
+	padding-bottom: 18px;
+}		
+	
+.contact_page h3 {
+	font-size: 15px;
+	padding-bottom: 20px;
+	padding-top: 11px;
+	line-height: 23px;
+}		
+.contact_page .contact_page_details {
+	flex-direction: column;
+	align-items: flex-start;
+	margin-bottom: 30px;
+}
+	
+.contact_page .contact_page_details .contact_page_details_map {
+	width: 100%;
+	margin-top: 20px;
+} 	
+	
+.contact_page .contact_page_details .contact_page_details_text h3 {
+	font-size: 19px;
+	line-height: 19px;
+}	
+
+/*******************************
+	contact us page css end
+********************************/
+/***************************
+	team page start
+*****************************/
+	
+.leader {
+	padding: 40px 0  0 0;
+	overflow: hidden;
+}
+.leader h2 {
+	font-size: 20px;
+	padding-bottom: 18px;
+}	
+.manage_details {
+	width: auto;
+	padding: 10px 10px 10px 10px;
+	/* border-bottom: 1px solid; */
+}	
+.manage_details ul {
+	display: flex;
+	flex-direction: column;
+	margin-top: 20px;
+}	
+.manage_details ul li {
+	width: 100%;
+	flex: 0 0 100%;
+}	
+	
+.manage_details ul li .manage_details_details .manage_details_details_text h2 {
+	font-size: 20px;
+}	
+	
+.executive_leadership {
+	padding: 30px 0 0 0;
+	width: auto;
+}
+.executive_leadership ul {
+	display: flex;
+	flex-direction: column;
+	margin-top: 40px;
+}	
+	
+.executive_leadership ul li {
+	width: 100%;
+	flex: 0 0 100%;
+	margin-right: 0;
+}	
+	
+.executive_leadership ul li .manage_details_details .manage_details_details_text h2 {
+	font-size: 20px;
+}	
+		
+	
+.executive_leadership ul li:nth-child(3n) {
+	margin-right: 0;
+}	
+	
+
+/***************************
+	team page End
+*****************************/		
+	
+/***************************
+	Blog page Start
+*****************************/	
+	
+.blog_sec_page {
+	padding: 40px 0;
+	overflow: hidden;
+}	
+.blog_sec_page .wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}	
+.blog_sec_page .blog_sec_left .blog_ena .blog_pic {
+    width: auto;
+    height: auto;
+}	
+.blog_sec_page .blog_sec_left {
+	width: auto;
+	flex: 0 0 100%;
+	margin-right: 0;
+}
+	
+.blog_sec_page .blog_sec_right {
+	width: 100%;
+	flex: 0 0 100%;
+}	
+h3.blog_heading {
+	font-size: 20px;
+	padding-bottom: 20px;
+}	
+.blog_sec_page .blog_sec_left .painx {
+	margin: -20px 0 30px 0;
+}	
+
+.blog_sec_page .blog_sec_left .blog_ena .blog_txt .blog_cmd ul li {
+	padding-right: 28px;
+}	
+.blog_sec_page .blog_sec_left .blog_ena {
+	padding: 20px;
+}	
+	
+a.banner_buttom.left {
+	margin-top: 0;
+	width: 35%;
+	padding: 10px 23px;
+}		
+.blog_sec_page .blog_sec_right .news ul li .news_pic {
+	float: none;
+	margin-right: 10px;
+}	
+/***************************
+	Blog page End
+*****************************/		
+	
+/***************************
+		audit_assurance page start
+*****************************/
+	
+.audit_service {
+	padding: 30px 0;
+}	
+	
+.audit_service .wrapper {
+	flex-direction: column;
+}		
+	
+.audit_service .about_sec_page_text {
+	width: auto;
+	overflow: hidden;
+	margin-bottom: 30px;
+}	
+.audit_service .audit_service_pic {
+	width: 100%;
+}	
+.audit_service_bottom ul li {
+	flex-direction: column;
+}	
+.audit_service_bottom ul li .audit_service_bottom_pic {
+	height: auto;
+	width: 100%;
+}
+	
+.audit_service_bottom ul li .wrapper {
+	width: auto;
+	padding: 40px 20px;
+}	
+
+.audits_reviews {
+	padding: 40px 0;
+	overflow: hidden;
+}		
+.audits_reviews p {
+	padding-top: 10px;
+}	
+.audits_reviews ul {
+	align-items: flex-start;
+	flex-direction: column;
+	padding-top: 10px;
+	
+}	
+	
+.audits_reviews ul li {
+	width: auto;
+}	
+h2.heading_center.left {
+	font-size: 20px;
+}	
+.audits_reviews {
+	padding:0 0 30px 0;
+	overflow: hidden;
+}
+	
+h2.heading_center_co {
+	font-size: 20px;
+}	
+
+.audit_service .about_sec_page_text p {
+	text-align: left;
+	padding-top: 10px;
+	font-size: 14px;
+}	
+.audit_service_bottom ul li .audit_service_bottom_text p {
+	text-align: left;
+	padding-top: 10px;
+	font-size: 14px;
+}	
+	
+/***************************
+		audit_assurance page end
+*****************************/		
+	
+/***************************
+		corporate_secretanrial page start
+*****************************/	
+.corporate_help {
+	padding: 40px 0;
+}
+	
+.corporate_help ul {
+	flex-direction: column;
+	padding-top: 0;
+}	
+	
+.corporate_help ul li{
+	width: auto;
+}	
+
+h4.header_sub {
+	margin-top: 20px;
+}	
+	
+/***************************
+		corporate_secretanrial page end
+*****************************/	
+/***************************
+	Business advisor page start
+*****************************/	
+.how_it_work ul li::before {
+	display: none;
+}
+	
+.how_it_work ul {
+	margin-top: 0;
+	flex-direction: column;
+
+}	
+.how_it_work ul li {
+	width: auto;
+	margin-top: 100px;
+}
+.how_it_work ul li .work_text {
+	padding: 50px 22px;
+	height: auto;
+}	
+.audits_reviews.clound ul li {
+    width: auto;
+}
+/***************************
+	Business advisor page end
+*****************************/		
+	
+}
